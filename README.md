@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👯 I’m looking to collaborate on getting the furry fandom better
+- 📫 How to reach me: telegram
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: dragonkin
 
 <!--
 **sfner/sfner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
